@@ -1,159 +1,166 @@
-# TheCyb3rKat
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Matrix+Code+NFI&size=32&duration=3000&pause=1000&color=00ED64&center=true&vCenter=true&width=600&lines=ΔΗΜΗΤΡΑ+ΚΑΤΣΑΡΟΥ;TheCyb3rKat;Cybersecurity+Specialist;Network+Defender;Digital+Forensics+Enthusiast" alt="Matrix typing effect with name" />
+</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Network+Security+Analyst;Digital+Forensics+Enthusiast;Security+Researcher" alt="Professional titles" />
+  <img src="https://github.com/TheCyb3rKat/TheCyb3rKat/blob/main/matrix-banner.gif" alt="Matrix code animation" />
 </div>
 
 <p align="center">
-  <a href="https://github.com/TheCyb3rKat"><img src="https://img.shields.io/badge/GitHub-TheCyb3rKat-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="mailto:Dimitra_kat5@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Athens,_Greece-00843D?style=flat-square&logo=google-maps&logoColor=white" alt="Location"></a>
-  <img src="https://komarev.com/ghpvc/?username=TheCyb3rKat&style=flat-square&color=00C896" alt="Profile visitors">
+  <a href="https://github.com/TheCyb3rKat"><img src="https://img.shields.io/badge/GitHub-TheCyb3rKat-00ED64?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:Dimitra_kat5@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-00ED64?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Athens,_Greece-00ED64?style=flat-square&logo=google-maps&logoColor=white" alt="Location"></a>
+  <img src="https://komarev.com/ghpvc/?username=TheCyb3rKat&style=flat-square&color=00ED64" alt="Profile visitors">
 </p>
 
-## About Me
+## `> cat whoami.txt`
 
-```console
-TheCyb3rKat@infosec:~$ whoami
+Female cybersecurity enthusiast from Athens, Greece, transitioning from IT support into ethical hacking and security. My diverse background in technical support, accounting systems, and data management provides a unique perspective on security challenges. Currently pursuing a Software Development degree at ΙΕΚ Πληροφορικής (graduation 2026).
+
+```
+I'm Δήμητρα Κατσαρού, aka TheCyb3rKat — breaking stereotypes 
+and securing systems one line of code at a time.
 ```
 
-Security-focused professional transitioning from IT support into cybersecurity. My background in technical support and system administration provides a solid foundation for understanding the security landscape from multiple perspectives.
+## `> ./skills.sh --verbose`
 
-Currently focused on building practical skills in vulnerability assessment, network security monitoring, and secure coding practices while pursuing formal education in software development at ΙΕΚ Πληροφορικής.
+<div class="terminal">
+  <pre>
+┌──(TheCyb3rKat㉿kali)-[~/skills]
+└─$ ./display_skills.sh --verbose
 
-## Technical Expertise
+[+] TECHNICAL SKILLS
+├── Programming & Development
+│   ├── C/C++ 
+│   ├── HTML
+│   ├── Python (learning)
+│   └── Basic Bash scripting
+│
+├── Security Tools
+│   ├── Linux environments
+│   ├── Wireshark (packet analysis)
+│   ├── Nmap (network scanning)
+│   └── OBS Studio (documentation)
+│
+└── System Management
+    ├── Microsoft Office Suite
+    ├── Data management
+    ├── ERP software experience
+    └── IT troubleshooting
 
-```console
-TheCyb3rKat@infosec:~$ ./display_skills.sh
-```
+[+] BUSINESS ACUMEN
+├── Financial analysis
+├── Costing & budgeting
+├── Customer support
+└── Technical documentation
 
-<details open>
-<summary><b>Security Skills</b></summary>
-<br>
-
-| Category | Skills |
-|:--------|:-------|
-| **Security Assessment** | Network scanning, vulnerability identification, password security analysis |
-| **Defense Systems** | Basic firewall configuration, security monitoring, log analysis |
-| **Tools & Platforms** | Wireshark, Nmap, Basic Linux security tools |
-| **Methodologies** | OWASP Top 10 awareness, security best practices |
-
-</details>
-
-<details>
-<summary><b>Technical Foundation</b></summary>
-<br>
-
-| Category | Skills |
-|:--------|:-------|
-| **Programming** | C/C++ fundamentals, Basic Python scripting, HTML/CSS |
-| **Systems** | Linux administration basics, Windows security hardening |
-| **Networking** | TCP/IP, OSI model, network protocols, packet analysis |
-| **Development** | VS Code, Git version control, secure SDLC awareness |
-
-</details>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyb3rKat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF" alt="Most used languages">
+[+] LANGUAGES
+├── Greek (native)
+└── English (Lower level)
+  </pre>
 </div>
 
-## Security Projects
-
-```console
-TheCyb3rKat@infosec:~$ ls -la ./projects/
-```
+## `> ls -la ./projects/`
 
 | Project | Description | Technologies | Status |
 |:--------|:------------|:-------------|:-------|
-| **SecurePass Analyzer** | Tool for evaluating password strength with hash identification capabilities | Python, Cryptography libraries | 🔶 In Development |
-| **Network Monitor** | Simple network monitoring dashboard with traffic analysis | Python, Scapy, Flask | ⬜ Planning Phase |
-| **Phishing Detection API** | Service to analyze URLs and identify common phishing patterns | Python, FastAPI, OSINT integration | ⬜ Concept Stage |
-| **Security Research Blog** | Documentation of vulnerabilities, tools, and cybersecurity insights | Markdown, GitHub Pages | 🔶 Initial Content |
+| **SecurePass Analyzer** | Password security tool with hash identification | Python, Cryptography | 🟡 In Development |
+| **Phishing Link Detective** | URL analysis for security threats | Python, Web Security | ⬜ Planning Phase |
+| **Threat Monitor Dashboard** | Network traffic visualization & analysis | Python, Data Viz | ⬜ Concept Stage |
+| **Women In Cybersecurity Blog** | Resource sharing and community building | Markdown, Web | 🟡 Initial Content |
 
-## Professional Background
+## `> more ./career_path.txt`
 
-```console
-TheCyb3rKat@infosec:~$ cat ./experience.txt
+```
+---------------------------------
+|     CYBERSECURITY ROADMAP     |
+---------------------------------
 ```
 
-**IL TORRO** — *Accounting & Payroll Assistant* (2024 – Present)
-- Managing sensitive financial documentation with data protection measures
-- Implementation of secure document handling procedures
+**Current Focus (2025)**
+- Building foundation in network security & ethical hacking
+- Developing practical skills through hands-on projects
+- Creating educational content to document my journey
 
-**Bread Factory** — *Office Support & Costing* (2023 – 2024)
-- Information systems management and data integrity verification
-- Process optimization with security considerations
+**Short-term Goals**
+- Earn Security+ certification
+- Complete 3 security projects for portfolio
+- Participate in beginner CTF competitions
+- Build network with other women in cybersecurity
 
-**BeSmart** — *Technical Support Specialist* (2022 – 2023)
-- Endpoint troubleshooting and system security guidance
-- User security awareness training and best practices implementation
+**Long-term Vision**
+- Specialize in network defense or digital forensics
+- Mentor other women entering tech & security fields
+- Contribute to making systems more secure for everyone
 
-## Career Development Path
+## `> cat ./experience.log`
 
-```console
-TheCyb3rKat@infosec:~$ cat ./roadmap_2025.md
+**IL TORRO** — *Accounting & Payroll Support* (Oct 2024 - Present)
+- Managing financial data with security best practices
+- Implementing efficient document management systems
+- Analysis of financial information and budget tracking
+
+**BREAD FACTORY** — *Office Support & Costing* (Oct 2023 - Aug 2024)
+- Supply chain management and production support
+- Recipe documentation and process optimization
+- Technical assistance to accounting department
+
+**BESMART** — *Sales & Technical Support* (Sept 2022 - 2023)
+- Technical troubleshooting for client devices and software
+- Customer training on security awareness and best practices
+- Sales of technology products and services
+
+**Previous Experience:** Retail operations at Funky Buddha (2016-2019) and BSB (2013-2016) with focus on inventory management, staff training, and e-commerce support.
+
+## `> cat ./personal_notes.md`
+
+```
+As a woman entering cybersecurity, I'm passionate about:
+
+* Breaking gender barriers in technical fields
+* Building practical security skills through real-world scenarios
+* Creating secure, reliable systems that protect people's data
+* Leveraging my diverse background for unique security insights
+* Connecting technical security with business understanding
+* Gaming & content creation as both hobbies and learning tools
 ```
 
-1. **Q1-Q2 Objectives:**
-   - Complete foundation security courses (Network+, Security+ preparation)
-   - Develop and deploy two security-focused GitHub projects
-   - Establish security research methodology and documentation system
-
-2. **Q3-Q4 Goals:**
-   - Participate in beginner CTF competitions (PicoCTF, OverTheWire)
-   - Complete Security+ certification or equivalent
-   - Begin contributing to security community through research or tools
-
-3. **Skill Development Focus:**
-   - Network security monitoring and analysis
-   - Vulnerability assessment and management
-   - Secure coding practices and application security
-   - Defense strategy and security architecture fundamentals
-
-## Contact & Connect
-
-```console
-TheCyb3rKat@infosec:~$ ./secure_connect.sh
-```
-
-- **Email:** Dimitra_kat5@hotmail.com
-- **GitHub:** [github.com/TheCyb3rKat](https://github.com/TheCyb3rKat)
-- **Location:** Athens, Greece
+## `> ./connect.sh`
 
 <div align="center">
-  <!-- Placeholder for future security platform profile badges -->
-  <table>
+  <table border="0">
     <tr>
       <td align="center">
-        <img src="https://assets.tryhackme.com/img/THMlogo.png" width="60" height="60"><br>
-        <span>TryHackMe</span><br>
-        <small>Coming Soon</small>
+        <img src="https://img.shields.io/badge/Email-Dimitra__kat5%40hotmail.com-00ED64?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email contact">
       </td>
       <td align="center">
-        <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="60" height="60"><br>
-        <span>HackTheBox</span><br>
-        <small>Coming Soon</small>
+        <img src="https://img.shields.io/badge/GitHub-TheCyb3rKat-00ED64?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile">
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Phone-6978176108-00ED64?style=for-the-badge&logo=phone&logoColor=white" alt="Phone contact">
       </td>
       <td align="center">
-        <img src="https://portswigger.net/content/images/logos/portswigger-logo.svg" width="60" height="60"><br>
-        <span>PortSwigger</span><br>
-        <small>Coming Soon</small>
+        <img src="https://img.shields.io/badge/Location-Athens,_Greece-00ED64?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
       </td>
     </tr>
   </table>
 </div>
 
----
-
-<p align="center"><i>"Security is a process, not a product." — Bruce Schneier</i></p>
+<div align="center">
+  <p>"The code is just the beginning. Real security lies in understanding the systems and the people who use them." — TheCyb3rKat</p>
+</div>
 
 ```
-  _______ _          _____      _      ____       _  __     _   
- |__   __| |        / ____|    | |    |  _ \     | |/ /    | |  
-    | |  | |__   ___| |   _   _| |__  | |_) | ___| ' / __ _| |_ 
-    | |  | '_ \ / _ \ |  | | | | '_ \ |  _ < / _ \  < / _` | __|
-    | |  | | | |  __/ |__| |_| | |_) || |_) |  __/ . \ (_| | |_ 
-    |_|  |_| |_|\___|\____\__, |_.__/ |____/ \___|_|\_\__,_|\__|
-                           __/ |                                 
-                          |___/                                  
+___________.__            _________      ___.   ________      ____  __._____.___ 
+\__    ___/|  |__   ____ \_   ___ \    /  |  \ /  _____/     |    |/ _/\__  |   |
+  |    |   |  |  \_/ __ \/    \  \/   /   |  |/   \  ___     |      <   /   |   |
+  |    |   |   Y  \  ___/\     \____/    ^   /\    \_\  \    |    |  \  \____   |
+  |____|   |___|  /\___  >\______  /\____   |  \______  / /\ |____|__ \ / ______|
+                \/     \/        \/      |__|         \/  \/         \/ \/       
 ```
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200" alt="Woman coder animation">
+</div>
