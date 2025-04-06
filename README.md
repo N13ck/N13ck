@@ -1,8 +1,12 @@
-# N13ck - Digital Spectre 👻
+# N13ck - The Digital Phantom 👻
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N13ck&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N13ck&layout=compact&theme=dark)](https://github.com/N13ck/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N13ck&show_icons=true&theme=dark)](https://github.com/N13ck/github-readme-stats)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Hacker GIF"/>
+</p>
 
 ██████╗  ██████╗ ███████╗███████╗██╗   ██╗███████╗
 ██╔══██╗██╔═══██╗██╔════╝██╔════╝██║   ██║██╔════╝
@@ -12,86 +16,65 @@
 ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
 
 
-Welcome to the digital shadows. I am N13ck, a seeker of vulnerabilities, a guardian of the digital realm. My pursuit is to understand the unseen, to fortify the fragile, and to illuminate the hidden pathways of cyberspace.
+## Initiating System Intrusion... 👾
 
-## My Digital Signature 🔍
+**Designation:** N13ck
 
-* **Cybersecurity Archaeologist:** Unearthing digital artifacts and analyzing their weaknesses.
-* **Ethical Infiltrator:** Utilizing knowledge to build robust defenses, not to exploit.
-* **Code Alchemist:** Transmuting scripts into tools of security.
-* **Perpetual Learner:** The digital landscape shifts, so must my understanding.
+**Objective:** Cyberspace Exploration and Security Reinforcement
 
-## Current Operations 📡
+**Status:** Active, Stealth Mode Engaged
 
-* Penetration Testing (Web, Network, Systems)
-* Reverse Engineering (Binary Analysis)
-* Security Scripting (Python, Bash, PowerShell)
-* Vulnerability Analysis (CVEs, Zero-Days)
-* Network Traffic Analysis
+**Threat Assessment:** Variable, Adapting to Digital Terrain
 
-## Armory 🛡️
+---
 
-* Kali Linux
-* Metasploit Framework
-* Nmap & Zenmap
-* Wireshark & Tcpdump
-* Burp Suite
-* Ghidra & IDA Pro (Basics)
-* Python (Scapy, Requests, etc.)
+## Profile Loading... 🔍
 
-## Projects 📂
+* **Digital Shadow Runner:** Navigating the depths of network architecture.
+* **Vulnerability Alchemist:** Transmuting weaknesses into fortified defenses.
+* **Code Weaver:** Crafting scripts for automated security analysis.
+* **Information Spectre:** Gathering and analyzing digital intelligence.
 
-* **[Check my repositories](https://github.com/N13ck?tab=repositories)**: My digital ledger of experiments, tools, and research.
+## Current Operations 🛰️
 
-## Communication Channels 🌐
+* Advanced Penetration Testing
+* Reverse Engineering & Malware Analysis
+* Security Automation & Scripting
+* Vulnerability Research & Exploitation
+* Network Security & Traffic Analysis
+
+## Tools of the Trade 🛠️
+
+* Customized Kali Linux Environment (Dark Theme)
+* Metasploit Framework (Advanced Modules)
+* Wireshark & Tcpdump (Network Sniffing)
+* Ghidra & Radare2 (Binary Analysis)
+* Burp Suite & OWASP ZAP (Web Security)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKr3nzsm5IxQYFO/giphy.gif" width="200" alt="Code Matrix GIF"/>
+</p>
+
+## Data Logs (Repositories) 📂
+
+* **[Repository Access Point](https://github.com/N13ck?tab=repositories)**: Digital archives and projects.
+
+## Communication Relay 🌐
 
 * **GitHub:** [https://github.com/N13ck](https://github.com/N13ck)
 
-## Digital Philosophy 📜
+## Future Enhancements 🔮
 
-```bash
-# Example command (simulated)
-echo "Executing network scan..."
-nmap -A -T4 target_ip -oN scan_results.txt
-cat scan_results.txt | grep "open"
-Python
+* Advanced Exploit Development
+* Kernel Exploitation & Rootkit Analysis
+* Hardware Security & Embedded Systems
+* AI-Driven Security & Threat Intelligence
+* Advanced Cryptography & Steganography
 
-# Example python script (simulated)
-import socket
-import threading
+## Connection Protocol 🤝
 
-def port_scan(target, port):
-    try:
-        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        s.connect((target, port))
-        print(f"[+] Port {port} is open")
-        s.close()
-    except:
-        pass
+* Open to collaboration, knowledge exchange, and joint operations.
 
-target = "127.0.0.1" #replace with target IP
-for port in range(1, 1025):
-    thread = threading.Thread(target=port_scan, args=(target, port))
-    thread.start()
-PowerShell
+---
 
-#Example powershell script (simulated)
-$target = "127.0.0.1" #replace with target IP
-1..1024 | ForEach-Object {
-    try {
-        $socket = New-Object System.Net.Sockets.TcpClient($target, $_)
-        Write-Host "[+] Port $_ is open"
-        $socket.Close()
-    } catch {}
-}
-```
-Future Objectives 🔮
-Advanced Reverse Engineering & Exploit Development
-Security Certifications (OSCP, OSCE)
-Contributing to Open-Source Security Projects
-Building Custom Security Tools
-Deeper understanding of Kernel exploitation
-Connect 🤝
-I am open to collaborations, discussions, and knowledge sharing. Let's explore the depths of cybersecurity together.
-
-Disclaimer: All code and commands are for educational purposes. Use them responsibly and ethically. Do not use them against systems without explicit permission.
+**Disclaimer:** This profile is for educational and ethical purposes only. Unauthorized access is strictly prohibited.
