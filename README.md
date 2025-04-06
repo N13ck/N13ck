@@ -1,80 +1,68 @@
-# N13ck - The Digital Phantom 👻
+# N13ck - ░▒▓█ ShadowNet Operator █▓▒░
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N13ck&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N13ck&layout=compact&theme=dark)](https://github.com/N13ck/github-readme-stats)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N13ck&show_icons=true&theme=dark)](https://github.com/N13ck/github-readme-stats)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200" alt="Hacker GIF"/>
+  <img src="https://media.giphy.com/media/3o7TKr3nzsm5IxQYFO/giphy.gif" width="200" alt="Code Matrix GIF"/>
 </p>
-
+<pre>
 ██████╗  ██████╗ ███████╗███████╗██╗   ██╗███████╗
 ██╔══██╗██╔═══██╗██╔════╝██╔════╝██║   ██║██╔════╝
 ██████╔╝██║   ██║███████╗█████╗  ██║   ██║███████╗
 ██╔══██╗██║   ██║╚════██║██╔══╝  ██║   ██║╚════██║
 ██████╔╝╚██████╔╝███████║███████╗╚██████╔╝███████╗
 ╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
+</pre>
 
+## ░▒▓ Loading... ▓▒░
 
-## Initiating System Intrusion... 👾
+**Alias:** N13ck
 
-**Designation:** N13ck
+**Mission:** Digital Security & Exploration
 
-**Objective:** Cyberspace Exploration and Security Reinforcement
-
-**Status:** Active, Stealth Mode Engaged
-
-**Threat Assessment:** Variable, Adapting to Digital Terrain
+**Status:** Active ⚡
 
 ---
 
-## Profile Loading... 🔍
+## ░▒▓ Core Functions ▓▒░
 
-* **Digital Shadow Runner:** Navigating the depths of network architecture.
-* **Vulnerability Alchemist:** Transmuting weaknesses into fortified defenses.
-* **Code Weaver:** Crafting scripts for automated security analysis.
-* **Information Spectre:** Gathering and analyzing digital intelligence.
+* Cyber Reconnaissance 📡
+* Vulnerability Analysis 🔍
+* Security Automation 🤖
+* Reverse Engineering 🛠️
 
-## Current Operations 🛰️
+## ░▒▓ Arsenal ▓▒░
 
-* Advanced Penetration Testing
-* Reverse Engineering & Malware Analysis
-* Security Automation & Scripting
-* Vulnerability Research & Exploitation
-* Network Security & Traffic Analysis
-
-## Tools of the Trade 🛠️
-
-* Customized Kali Linux Environment (Dark Theme)
-* Metasploit Framework (Advanced Modules)
-* Wireshark & Tcpdump (Network Sniffing)
-* Ghidra & Radare2 (Binary Analysis)
-* Burp Suite & OWASP ZAP (Web Security)
+* Kali Linux (Customized) 🖤
+* Metasploit 💣
+* Wireshark 🦈
+* Ghidra ⚙️
+* Burp Suite 🕸️
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr3nzsm5IxQYFO/giphy.gif" width="200" alt="Code Matrix GIF"/>
+  <img src="https://media.giphy.com/media/13cptIwW9bgzk6UVyr/giphy.gif" width="200" alt="Hacker Terminal GIF"/>
 </p>
 
-## Data Logs (Repositories) 📂
+## ░▒▓ Data Repository ▓▒░
 
-* **[Repository Access Point](https://github.com/N13ck?tab=repositories)**: Digital archives and projects.
+* **[Access Point](https://github.com/N13ck?tab=repositories)** 📂
 
-## Communication Relay 🌐
+## ░▒▓ Connection ▓▒░
 
-* **GitHub:** [https://github.com/N13ck](https://github.com/N13ck)
+* **GitHub:** [https://github.com/N13ck](https://github.com/N13ck) 🌐
 
-## Future Enhancements 🔮
+## ░▒▓ Future Upgrades ▓▒░
 
-* Advanced Exploit Development
-* Kernel Exploitation & Rootkit Analysis
-* Hardware Security & Embedded Systems
-* AI-Driven Security & Threat Intelligence
-* Advanced Cryptography & Steganography
+* Advanced Exploitation 💥
+* Kernel Security 🔒
+* AI Security 🧠
 
-## Connection Protocol 🤝
+## ░▒▓ Connection Protocol ▓▒░
 
-* Open to collaboration, knowledge exchange, and joint operations.
+* Collaboration Welcome 🤝
 
 ---
 
-**Disclaimer:** This profile is for educational and ethical purposes only. Unauthorized access is strictly prohibited.
+**░▒▓ Disclaimer: Ethical Use Only ▓▒░**
