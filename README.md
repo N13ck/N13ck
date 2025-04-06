@@ -1,68 +1,64 @@
-# N13ck - ░▒▓█ ShadowNet Operator █▓▒░
+N13ck ⚡ | Cybersecurity Enthusiast
+<div align="center">
+ _   _ _ _____      _    
+| \ | / |___ /     | | __
+|  \| | | |_ \ _   | |/ /
+| |\  | |___) | |__| |_  
+|_| \_|_|____/ \____/(_)
+Show Image
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N13ck&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N13ck&layout=compact&theme=dark)](https://github.com/N13ck/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=N13ck&show_icons=true&theme=dark)](https://github.com/N13ck/github-readme-stats)
+Show Image
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKr3nzsm5IxQYFO/giphy.gif" width="200" alt="Code Matrix GIF"/>
-</p>
-<pre>
-██████╗  ██████╗ ███████╗███████╗██╗   ██╗███████╗
-██╔══██╗██╔═══██╗██╔════╝██╔════╝██║   ██║██╔════╝
-██████╔╝██║   ██║███████╗█████╗  ██║   ██║███████╗
-██╔══██╗██║   ██║╚════██║██╔══╝  ██║   ██║╚════██║
-██████╔╝╚██████╔╝███████║███████╗╚██████╔╝███████╗
-╚═════╝  ╚═════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-</pre>
+Show Image
 
-## ░▒▓ Loading... ▓▒░
+</div>
+👨‍💻 CyberSec Journey
+bash
+$ cat whoami.txt
+> Aspiring cybersecurity specialist exploring the digital realm, one vulnerability at a time.
+> Currently learning the art of ethical hacking and defensive security measures.
+🔐 Skills & Tools
+<div align="center">
+🛡️ Security	🖥️ Systems	🌐 Networking	🧰 Tools
+Penetration Testing	Linux	TCP/IP	Wireshark
+Vulnerability Assessment	Windows	Firewalls	Metasploit
+Security Analysis	Command Line	VPNs	Burp Suite
+Threat Hunting	Scripting	DNS	Nmap
+</div>
+📊 GitHub Stats
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N13ck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> </div>
+🔍 Current Focus
+python
+current_projects = [
+    "Learning advanced penetration testing techniques",
+    "Building a home security lab environment",
+    "Exploring network traffic analysis",
+    "Practicing CTF challenges"
+]
+🚀 Future Goals
+javascript
+const hackerRoadmap = {
+  certifications: ["CompTIA Security+", "CEH", "OSCP"],
+  skills: ["Red Team Operations", "Malware Analysis", "Digital Forensics"],
+  projects: ["Develop security tools", "Contribute to open-source security projects"]
+};
+📚 Learning Resources
+<div align="center">
+Books	Platforms	Courses	Communities
+The Web Application Hacker's Handbook	HackTheBox	TryHackMe	Reddit r/cybersecurity
+Penetration Testing: A Hands-On Introduction	VulnHub	Cybrary	DEF CON
+Practical Malware Analysis	PicoCTF	Udemy	HackerOne
+</div>
+<div align="center">
+"The quieter you become, the more you are able to hear" - Kali Linux
+Show Image
 
-**Alias:** N13ck
+Show Image
 
-**Mission:** Digital Security & Exploration
+Show Image
 
-**Status:** Active ⚡
+Show Image
 
----
-
-## ░▒▓ Core Functions ▓▒░
-
-* Cyber Reconnaissance 📡
-* Vulnerability Analysis 🔍
-* Security Automation 🤖
-* Reverse Engineering 🛠️
-
-## ░▒▓ Arsenal ▓▒░
-
-* Kali Linux (Customized) 🖤
-* Metasploit 💣
-* Wireshark 🦈
-* Ghidra ⚙️
-* Burp Suite 🕸️
-
-<p align="center">
-  <img src="https://media.giphy.com/media/13cptIwW9bgzk6UVyr/giphy.gif" width="200" alt="Hacker Terminal GIF"/>
-</p>
-
-## ░▒▓ Data Repository ▓▒░
-
-* **[Access Point](https://github.com/N13ck?tab=repositories)** 📂
-
-## ░▒▓ Connection ▓▒░
-
-* **GitHub:** [https://github.com/N13ck](https://github.com/N13ck) 🌐
-
-## ░▒▓ Future Upgrades ▓▒░
-
-* Advanced Exploitation 💥
-* Kernel Security 🔒
-* AI Security 🧠
-
-## ░▒▓ Connection Protocol ▓▒░
-
-* Collaboration Welcome 🤝
-
----
-
-**░▒▓ Disclaimer: Ethical Use Only ▓▒░**
+</div>
+    01001110 00110001 00110011 01100011 01101011  
+    Exploring the matrix, one bit at a time...
