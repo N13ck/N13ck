@@ -1,51 +1,51 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKSKfSld1H0dL7O/giphy.gif" width="400" alt="Cyber Chaos">
+  <img src="https://media.giphy.com/media/l0IylSglcT1H1lDKM/giphy.gif" width="450" alt="Cyber Skull">
 </p>
 
 # N13ck  
-## Digital Renegade | Cybersecurity Warlord  
+## Code Assassin | Cyber Phantom  
 
-*I don’t hack to destroy—I hack to dominate.*  
-Welcome to my lair. I’m tearing through **cybersecurity**, **ethical hacking**, and the code that binds it all. Systems fall, defenses rise—watch me rewrite the rules.  
-
----
-
-### The Core of the Beast  
-- 🔥 **Cracking networks**, exposing flaws, and locking them down.  
-- 🕸️ **Web exploits**, shell scripts, and binary sorcery.  
-- ⚡️ Fueled by relentless curiosity and a keyboard that sparks.  
-
-### My Cyber Arsenal  
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
-
-- **Mastering**: Pentesting, reverse engineering, DDoS mitigation  
-- **Target**: Total control of the digital battlefield  
+**I don’t play defense—I strike first.**  
+This is my warzone. I shred **cybersecurity myths**, wield **hacking blades**, and dance on the edge of the abyss. Systems bleed, and I thrive.  
 
 ---
 
-### Power Metrics  
+### What Fuels Me  
+- 🩸 **Bloodlust for exploits**: Web, network, root—nothing’s safe.  
+- ⚡️ **Electric chaos**: Scripts that bite, tools that burn.  
+- 💀 **No rules, no mercy**: I’m here to break it all.  
+
+### Weapons Locked & Loaded  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=N13ck&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N13ck&theme=dracula&hide_border=true" alt="Streak Stats">
+  <img src="https://img.shields.io/badge/Hack_The_Planet-FF00FF?style=for-the-badge&logo=skull&logoColor=black" alt="Hack">
+  <img src="https://img.shields.io/badge/Exploit_DB-00FF00?style=for-the-badge&logo=codepen&logoColor=black" alt="ExploitDB">
+  <img src="https://img.shields.io/badge/John_The_Ripper-FF4500?style=for-the-badge&logo=fire&logoColor=black" alt="John">
+  <img src="https://img.shields.io/badge/Aircrack_ng-1E90FF?style=for-the-badge&logo=wifi&logoColor=black" alt="Aircrack">
+</p>
+
+- **Edge**: Crashing Wi-Fi, cracking hashes, owning boxes.  
+- **Endgame**: Total digital anarchy, one vuln at a time.  
+
+---
+
+### Kill Count  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N13ck&theme=monokai&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FF00" alt="Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N13ck&theme=rogue&bg_color=0D1117&color=FF00FF&line=00FF00&point=FFFFFF" alt="Activity Graph">
 </p>
 
 ---
 
-### The Vault  
-- *[Repo TBD]* - Cyberweapons in progress. Stay tuned.  
-- **My Domain**: [n13ck-cyber.vercel.app](https://n13ck-cyber.vercel.app) - Enter my world of chaos and code.  
+### My Dark Empire  
+- *[Repo Drop Soon]* - Tools forged in the shadows.  
+- **Portal**: [n13ck-ripz.vercel.app](https://n13ck-ripz.vercel.app) - Step into my void.  
 
-### Hunt Me Down  
-- 📡 X: [@YourXHandle]  
-- 💣 Throw me a vuln or a dare—I’ll rip it apart.  
+### Stalk or Strike  
+- 📡 X: [@YourXHandle] - Dare to tag me.  
+- ⚡ Toss me a target—I’ll make it scream.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPJGjAwmeRWnhsc/giphy.gif" width="300" alt="Terminal Fire">
+  <img src="https://media.giphy.com/media/26AHvF2p5pridaSkk/giphy.gif" width="350" alt="Neon Code">
 </p>
 
-**"In a world of 1s and 0s, I’m the glitch that wins."**  
+**"I’m the ghost in your machine. Sleep tight."**  
