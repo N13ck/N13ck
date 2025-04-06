@@ -1,179 +1,159 @@
-<h1 align="center">🕶️ TheCyb3rKat | Cybersecurity Explorer 🐾</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&lines=Aspiring+Cybersecurity+Engineer;Beginner+Ethical+Hacker+%F0%9F%92%BB;Learning+to+Secure+the+Digital+World+🔐" alt="Typing SVG" />
-</p>
+# TheCyb3rKat
 
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=TheCyb3rKat&label=VISITORS&labelColor=%23000000&countColor=%2300FFFF" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist;Network+Security+Analyst;Digital+Forensics+Enthusiast;Security+Researcher" alt="Professional titles" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OSINT-Specialist-blue?style=for-the-badge&logo=search&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ethical-Hacker-success?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <a href="https://github.com/TheCyb3rKat"><img src="https://img.shields.io/badge/GitHub-TheCyb3rKat-0a0a0a?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:Dimitra_kat5@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-Athens,_Greece-00843D?style=flat-square&logo=google-maps&logoColor=white" alt="Location"></a>
+  <img src="https://komarev.com/ghpvc/?username=TheCyb3rKat&style=flat-square&color=00C896" alt="Profile visitors">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheCyb3rKat&theme=blue-green" alt="TheCyb3rKat's streak" />
-</div>
+## About Me
 
-```
-┌──(TheCyb3rKat㉿kali)-[~/cybersecurity]
-└─$ cat exploit.sh
+```console
+TheCyb3rKat@infosec:~$ whoami
 ```
 
-## `> [Target Acquired]`
+Security-focused professional transitioning from IT support into cybersecurity. My background in technical support and system administration provides a solid foundation for understanding the security landscape from multiple perspectives.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
+Currently focused on building practical skills in vulnerability assessment, network security monitoring, and secure coding practices while pursuing formal education in software development at ΙΕΚ Πληροφορικής.
 
-## 🧬 About Me
+## Technical Expertise
 
-```bash
-> whoami
-> I'm Δήμητρα Κατσαρού aka TheCyb3rKat
-
-> id
-uid=1337(TheCyb3rKat) gid=1337(hackers) groups=1337(hackers),27(sudo),1000(security)
+```console
+TheCyb3rKat@infosec:~$ ./display_skills.sh
 ```
 
-👋 Hey there! I'm a **cybersecurity enthusiast** from Athens, Greece — currently diving into the world of digital defense, ethical hacking, and secure software development.
+<details open>
+<summary><b>Security Skills</b></summary>
+<br>
 
-💻 I'm transitioning from IT support and admin roles into **infosec and ethical hacking**.  
-🎓 Currently studying Software Development @ ΙΕΚ Πληροφορικής.  
-🧠 My mission: Learn, build, break (ethically), and secure systems.
+| Category | Skills |
+|:--------|:-------|
+| **Security Assessment** | Network scanning, vulnerability identification, password security analysis |
+| **Defense Systems** | Basic firewall configuration, security monitoring, log analysis |
+| **Tools & Platforms** | Wireshark, Nmap, Basic Linux security tools |
+| **Methodologies** | OWASP Top 10 awareness, security best practices |
 
-<details>
-<summary>⚔️ Arsenal</summary>
-
-```yaml
-languages:
-  - C
-  - C++
-  - HTML
-  - Python (learning)
-  - Bash (basic)
-
-cyber_arsenal:
-  - Network Scanning & Enumeration
-  - Password Security & Hash Analysis
-  - Digital Threat Intelligence
-  - Vulnerability Assessment
-
-tools_of_trade:
-  - Linux/Kali
-  - Wireshark
-  - Nmap & Masscan
-  - Metasploit Framework
-  - Burp Suite (learning)
-  - OWASP ZAP
-  - VS Code
-  - OBS Studio
-
-soft_skills:
-  - Red Team Thinking
-  - OSINT Collection
-  - Fast Learning
-  - Problem Solving
-```
 </details>
 
-## 📊 Cybersecurity Stats
+<details>
+<summary><b>Technical Foundation</b></summary>
+<br>
+
+| Category | Skills |
+|:--------|:-------|
+| **Programming** | C/C++ fundamentals, Basic Python scripting, HTML/CSS |
+| **Systems** | Linux administration basics, Windows security hardening |
+| **Networking** | TCP/IP, OSI model, network protocols, packet analysis |
+| **Development** | VS Code, Git version control, secure SDLC awareness |
+
+</details>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheCyb3rKat&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheCyb3rKat&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF" alt="Most used languages">
 </div>
 
-```
-[*] Initializing security scan...
-[*] Analyzing target environment...
-[*] Checking for vulnerabilities...
-[*] Building exploitation path...
-[+] Access Granted!
+## Security Projects
+
+```console
+TheCyb3rKat@infosec:~$ ls -la ./projects/
 ```
 
-## 🚧 Operations In Progress
+| Project | Description | Technologies | Status |
+|:--------|:------------|:-------------|:-------|
+| **SecurePass Analyzer** | Tool for evaluating password strength with hash identification capabilities | Python, Cryptography libraries | 🔶 In Development |
+| **Network Monitor** | Simple network monitoring dashboard with traffic analysis | Python, Scapy, Flask | ⬜ Planning Phase |
+| **Phishing Detection API** | Service to analyze URLs and identify common phishing patterns | Python, FastAPI, OSINT integration | ⬜ Concept Stage |
+| **Security Research Blog** | Documentation of vulnerabilities, tools, and cybersecurity insights | Markdown, GitHub Pages | 🔶 Initial Content |
 
-| Operation Codename | Objective | Status |
-|:------------:|:------------|:------:|
-| `FORTRESS` | Password Strength Analysis & Hash Detection | 🟡 In progress |
-| `PHISHNET` | Malicious URL & Header Analysis System | ⬜ Planned |
-| `PORTSCOUT` | Advanced TCP/UDP Port Reconnaissance Tool | ⬜ Planned |
-| `SECNOTES` | Encrypted Security Research Documentation | 🟢 Coming Soon |
+## Professional Background
 
-## 🧭 2025 Mission Directives
-
-```
-#!/bin/bash
-echo "Executing 2025 mission plan..."
+```console
+TheCyb3rKat@infosec:~$ cat ./experience.txt
 ```
 
-* Begin structured cybersecurity learning path
-* Deploy GitHub for infosec arsenal and documentation
-* Develop and publish 3 beginner security tools/scripts
-* Successfully complete first CTF (Capture The Flag) challenge
-* Obtain Security+ or Google Cybersecurity certification
-* Infiltrate open-source security project communities for contributions
+**IL TORRO** — *Accounting & Payroll Assistant* (2024 – Present)
+- Managing sensitive financial documentation with data protection measures
+- Implementation of secure document handling procedures
 
-## 💼 Cover Operations History
+**Bread Factory** — *Office Support & Costing* (2023 – 2024)
+- Information systems management and data integrity verification
+- Process optimization with security considerations
 
-**💼 IL TORRO** *Accounting & Payroll Assistant (2024 – Present)*
-* Data security, system protection, financial integrity
+**BeSmart** — *Technical Support Specialist* (2022 – 2023)
+- Endpoint troubleshooting and system security guidance
+- User security awareness training and best practices implementation
 
-**💼 Bread Factory** *Office Support & Costing (2023 – 2024)*
-* Supply chain security, information management
+## Career Development Path
 
-**🧑‍💻 BeSmart** *Technical Support Specialist (2022 – 2023)*
-* Endpoint protection, system troubleshooting, security hardening
+```console
+TheCyb3rKat@infosec:~$ cat ./roadmap_2025.md
+```
 
-## 📡 Secure Communication Channels
+1. **Q1-Q2 Objectives:**
+   - Complete foundation security courses (Network+, Security+ preparation)
+   - Develop and deploy two security-focused GitHub projects
+   - Establish security research methodology and documentation system
 
-<p align="center">
-  <a href="mailto:Dimitra_kat5@hotmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/TheCyb3rKat"><img src="https://img.shields.io/badge/GitHub-Follow-success?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackTheBox-Coming_Soon-orange?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
-</p>
+2. **Q3-Q4 Goals:**
+   - Participate in beginner CTF competitions (PicoCTF, OverTheWire)
+   - Complete Security+ certification or equivalent
+   - Begin contributing to security community through research or tools
 
-* 📍 Base of Operations: Athens, Greece
-* 📧 Secure Email: Dimitra_kat5@hotmail.com
-* 💻 GitHub: github.com/TheCyb3rKat
+3. **Skill Development Focus:**
+   - Network security monitoring and analysis
+   - Vulnerability assessment and management
+   - Secure coding practices and application security
+   - Defense strategy and security architecture fundamentals
+
+## Contact & Connect
+
+```console
+TheCyb3rKat@infosec:~$ ./secure_connect.sh
+```
+
+- **Email:** Dimitra_kat5@hotmail.com
+- **GitHub:** [github.com/TheCyb3rKat](https://github.com/TheCyb3rKat)
+- **Location:** Athens, Greece
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/yourusername.png" alt="TryHackMe">
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> 💬 "Hack the knowledge. Patch the skills. Secure the world." 🔐 — `TheCyb3rKat`
-
-```
-  _   _            _____      _      ____       _  __     _   
- | | | |          / ____|    | |    |  _ \     | |/ /    | |  
- | |_| |__   ___ / |   _   _| |__  | |_) | ___| ' / __ _| |_ 
- | __| '_ \ / _ \ |  | | | | '_ \ |  _ < / _ \  < / _` | __|
- | |_| | | |  __/ |__| |_| | |_) || |_) |  __/ . \ (_| | |_ 
-  \__|_| |_|\___|\____\__, |_.__/ |____/ \___|_|\_\__,_|\__|
-                       __/ |                                 
-                      |___/                                  
-```
-
-<div align="center">
+  <!-- Placeholder for future security platform profile badges -->
   <table>
     <tr>
-      <td width="50%">
-        <img src="https://media.giphy.com/media/l3vRmVv5P01I5NDAA/giphy.gif" alt="Hacking gif" width="100%">
+      <td align="center">
+        <img src="https://assets.tryhackme.com/img/THMlogo.png" width="60" height="60"><br>
+        <span>TryHackMe</span><br>
+        <small>Coming Soon</small>
       </td>
-      <td width="50%">
-        <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Code gif" width="100%">
+      <td align="center">
+        <img src="https://app.hackthebox.com/images/logos/logo-htb.svg" width="60" height="60"><br>
+        <span>HackTheBox</span><br>
+        <small>Coming Soon</small>
+      </td>
+      <td align="center">
+        <img src="https://portswigger.net/content/images/logos/portswigger-logo.svg" width="60" height="60"><br>
+        <span>PortSwigger</span><br>
+        <small>Coming Soon</small>
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+<p align="center"><i>"Security is a process, not a product." — Bruce Schneier</i></p>
+
 ```
-[!] SECURITY ADVISORY: This profile is protected by advanced intrusion detection systems
+  _______ _          _____      _      ____       _  __     _   
+ |__   __| |        / ____|    | |    |  _ \     | |/ /    | |  
+    | |  | |__   ___| |   _   _| |__  | |_) | ___| ' / __ _| |_ 
+    | |  | '_ \ / _ \ |  | | | | '_ \ |  _ < / _ \  < / _` | __|
+    | |  | | | |  __/ |__| |_| | |_) || |_) |  __/ . \ (_| | |_ 
+    |_|  |_| |_|\___|\____\__, |_.__/ |____/ \___|_|\_\__,_|\__|
+                           __/ |                                 
+                          |___/                                  
 ```
