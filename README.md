@@ -1,39 +1,51 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKSKfSld1H0dL7O/giphy.gif" width="400" alt="Cyber Chaos">
+</p>
+
 # N13ck  
-## Cybersecurity Outlaw | Codebreaker Unleashed  
+## Digital Renegade | Cybersecurity Warlord  
 
-![Hacker Vibe](https://media.giphy.com/media/26xBI73gWquCRCgDG/giphy.gif)  
-*I don’t just knock on doors—I kick them down.*  
-
-I’m diving headfirst into **cybersecurity**, **ethical hacking**, and the dark arts of code. Systems tremble, vulnerabilities bow. This is my proving ground.  
+*I don’t hack to destroy—I hack to dominate.*  
+Welcome to my lair. I’m tearing through **cybersecurity**, **ethical hacking**, and the code that binds it all. Systems fall, defenses rise—watch me rewrite the rules.  
 
 ---
 
-### Who Am I?  
-- 🔪 **Slicing through networks** with precision and grit.  
-- 💀 **Exploits are my fuel**, defense is my game.  
-- ⚡ Powered by caffeine, curiosity, and a terminal that never sleeps.  
+### The Core of the Beast  
+- 🔥 **Cracking networks**, exposing flaws, and locking them down.  
+- 🕸️ **Web exploits**, shell scripts, and binary sorcery.  
+- ⚡️ Fueled by relentless curiosity and a keyboard that sparks.  
 
-### My Toolkit  
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-00A1D6?style=for-the-badge&logo=nmap&logoColor=white)  
+### My Cyber Arsenal  
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Metasploit-FF0000?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-- **Skills**: Packet sniffing, pentesting, scripting mayhem  
-- **Mission**: To expose the weak and fortify the broken  
+- **Mastering**: Pentesting, reverse engineering, DDoS mitigation  
+- **Target**: Total control of the digital battlefield  
 
 ---
 
-### Stats That Hit Hard  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N13ck&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N13ck&layout=compact&theme=radical&hide_border=true)  
+### Power Metrics  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=N13ck&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N13ck&theme=dracula&hide_border=true" alt="Streak Stats">
+</p>
 
 ---
 
-### Repos That Pack a Punch  
-- *[Coming Soon]* - Expect chaos, exploits, and raw power.  
-- Watch this space—I’m building something lethal.  
+### The Vault  
+- *[Repo TBD]* - Cyberweapons in progress. Stay tuned.  
+- **My Domain**: [n13ck-cyber.vercel.app](https://n13ck-cyber.vercel.app) - Enter my world of chaos and code.  
 
-### Find Me in the Shadows  
+### Hunt Me Down  
 - 📡 X: [@YourXHandle]  
-- 💥 Drop a challenge or a vuln—let’s tear it apart.  
+- 💣 Throw me a vuln or a dare—I’ll rip it apart.  
 
-![Terminal GIF](https://media.giphy.com/media/l0ExvXIe8mmVeoe7C/giphy.gif)  
-**"Security is an illusion. I’m here to shatter it."**  
+<p align="center">
+  <img src="https://media.giphy.com/media/26FPJGjAwmeRWnhsc/giphy.gif" width="300" alt="Terminal Fire">
+</p>
+
+**"In a world of 1s and 0s, I’m the glitch that wins."**  
